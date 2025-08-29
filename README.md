@@ -1,5 +1,7 @@
 # Descripcion
 
+Aplicación realizada con Next.js, TailwindCss, Zustand, PostgresSQL y prisma entre otras dependencias. Se trata de un Ecormece inspirado en la tienda de ropa de Tesla.
+
 ## Correr en dev
 
 1. Clonar el repositorio
